@@ -32,11 +32,41 @@ Edición de la comunidad:
 ```
 C:\> git clone https://github.com/odoo/odoo.git
 ```
----
-
+Enterprise Edition:
+```
+C:\> git clone https://github.com/odoo/enterprise.git
+```
+# Oddo con Python
+Odoo requiere Python 3.6 o posterior para ejecutarse.
+Asegúrese de que la versión sea 3.6 o superior, ya que las versiones anteriores no son compatibles con Odoo.
+```
+C:\> python --version
+```
+Verifique también que pip esta instalado
+```
+C:\> pip --version
 ```
 
-```
+# postgresql
+Odoo utiliza PostgreSQL como sistema de gestión de base de datos.
+Descargue e instale PostgreSQL 
+[Aquí](https://www.postgresql.org/download/windows/)
+Nota : versión compatible: 10.0 y posteriore
+Más ➕ Nota importante:
+De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe conectarse como postgres, por lo que debe crear un **nuevo usuario** de PostgreSQL:
+1. Agregue binel directorio de PostgreSQL (por defecto: ) a su .C:\Program Files\PostgreSQL\<version>\binPATH
+2. Cree un usuario de postgres con una contraseña usando la interfaz gráfica de usuario de pg admin:
+a. Abra **pgAdmin**
+b. Haga doble clic en el servidor para crear una conexión.
+c. Seleccione **Objeto ‣ Crear ‣ Rol de inicio de sesión/grupo**.
+d. Ingrese el nombre de usuario en el campo **Nombre del rol** (p. ej. odoo, ).
+e. Abra la pestaña **Definición** e ingrese la contraseña (p. ej. odoo), luego haga clic en **Guardar**.
+f. Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a Yesy **Crear base de datos? a Yes**.
+
+
+
+
+ 
 
 
 
