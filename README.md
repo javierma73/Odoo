@@ -29,10 +29,14 @@ Más➕ info [aquí](https://www.odoo.com/documentation/13.0/administration/inst
 **Clona el repositorio de Odoo con Git**
 
 Edición de la comunidad:
-'''
+```
 C:\> git clone https://github.com/odoo/odoo.git
-'''
+```
+---
 
+```
+
+```
 
 
 
