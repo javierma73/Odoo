@@ -83,6 +83,10 @@ En estos link puedes probar Odoo para ir **familiarizándote** con sus aplicaci�
 El otro link que encontre es este, me parece mejor porque no tienes que crear cuanta.
 [trial](https://www.odoo.com/es_ES/trial)
 
+Referncia en la pág de Odoo en
+[Odoo en Línes](https://www.odoo.com/documentation/13.0/administration/install/install.html#online)
+
+
 ***NOTA ESTE REPO ESTA EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIENDO***
     
 
