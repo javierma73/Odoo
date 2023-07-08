@@ -57,7 +57,7 @@ De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe co
 
  1. Add PostgreSQL’s bin directory (by default: C:\Program Files\PostgreSQL\<version>\bin) to your PATH.
 2. Create a postgres user with a password using the pg admin gui:
-a- Open pgAdmin.
+ - Open pgAdmin.
  - Double-click the server to create a connection.
  - Select Object ‣ Create ‣ Login/Group Role.
  - Enter the username in the Role Name field (e.g. odoo).
