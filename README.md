@@ -54,9 +54,9 @@ Descargue e instale PostgreSQL
 Nota : versión compatible: 10.0 y posteriore
 Más ➕ Nota importante:
 De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe conectarse como postgres, por lo que debe crear un **nuevo usuario** de PostgreSQL:
-1. Agregue binel directorio de PostgreSQL (por defecto: ) a su .C:\Program Files\PostgreSQL\<version>\binPATH
- 2. Cree un usuario de postgres con una contraseña usando la interfaz gráfica de usuario de pg admin:
-    a - Abra **pgAdmin**
+a. Agregue binel directorio de PostgreSQL (por defecto: ) a su .C:\Program Files\PostgreSQL\<version>\binPATH
+ b. Cree un usuario de postgres con una contraseña usando la interfaz gráfica de usuario de pg admin:
+    - Abra **pgAdmin**
     
 
   
