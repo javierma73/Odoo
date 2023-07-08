@@ -76,7 +76,14 @@ Ya tengo mís 🗒 sobre eso:
 
 Pero puedes consulta referncia ofiacial: 
 [virtualenv](https://pypi.org/project/virtualenv)
+---
+# ¿Quíero probar Odoo Ya?
+En estos link puedes probar Odoo para ir **familiarizándote** con sus aplicación es una **Demo** así que puedes tocarlo todo sin miedo.
+[DEMO ODOO](https://demo4.odoo.com/web#cids=1&action=menu)
+El tro link que encontre es este, me parece mejor porque no tienes que crear cuanta.
+[trial](https://www.odoo.com/es_ES/trial)
 
+***NOTA ESTE REPO ESTA EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIENDO***
     
 
   
