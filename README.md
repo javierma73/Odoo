@@ -62,7 +62,19 @@ De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe co
  - Seleccione **Objeto ‣ Crear ‣ Rol de inicio de sesión/grupo**.
  - Introduzca el nombre de usuario en el campo **Nombre de rol** (por ejemplo, ).odoo
  - Abra la ficha Definición e introduzca la contraseña (por ejemplo, ) y, a continuación, haga clic en **Guardar**.
- - Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a y **Crear base de datos?**.👌 
+ - Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a y **Crear base de datos?**.👌
+
+# virtualenv 
+Antes de instalar Odoo en tu PC 🖥 lo primero que debes hacer es crearte un entorno virtual.
+```
+pip install virtualenv
+```
+¿Cómo crear un entorno virtual con Python?
+Ya tengo mís 🗒 sobre eso:
+[Entornos virtuales](https://github.com/javierma73/Entornos-virtuales/blob/main/Entornos-virtuales.md)
+
+Pero puedes consulta referncia ofiacial 
+[virtualenv](https://pypi.org/project/virtualenv)
 
     
 
