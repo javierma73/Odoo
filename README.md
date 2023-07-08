@@ -55,7 +55,7 @@ Nota : versión compatible: 10.0 y posteriore
 Más ➕ Nota importante:
 De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe conectarse como postgres, por lo que debe crear un **nuevo usuario** de PostgreSQL:
 
-1. Add PostgreSQL’s bin directory (by default: C:\Program Files\PostgreSQL\<version>\bin) to your PATH.
+ 1. Add PostgreSQL’s bin directory (by default: C:\Program Files\PostgreSQL\<version>\bin) to your PATH.
 2. Create a postgres user with a password using the pg admin gui:
 a. Open pgAdmin.
 b. Double-click the server to create a connection.
