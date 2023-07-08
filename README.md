@@ -62,7 +62,7 @@ De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe co
  - Seleccione **Objeto ‣ Crear ‣ Rol de inicio de sesión/grupo**.
  - Introduzca el nombre de usuario en el campo **Nombre de rol** (por ejemplo, ).odoo
  - Abra la ficha Definición e introduzca la contraseña (por ejemplo, ) y, a continuación, haga clic en **Guardar**.
- - Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a y **Crear base de datos?** 👌 
+ - Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a y **Crear base de datos?**. 👌 
 
     
 
