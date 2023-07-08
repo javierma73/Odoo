@@ -63,6 +63,10 @@ De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe co
  e.Abra la pestaña **Definición** e ingrese la contraseña (p. ej. odoo), luego haga clic en **Guardar**.
  f.Abra la pestaña **Privilegios** y cambie **¿Puede iniciar sesión?** a Yesy **Crear base de datos? a Yes**.
 
+1. First list item
+   - First nested list item
+     - Second nested list item
+
 
 
 
