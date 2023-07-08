@@ -69,7 +69,7 @@ Antes de instalar Odoo en tu PC 🖥 lo primero que debes hacer es crearte un en
 ```
 pip install virtualenv
 ```
-##¿Cómo crear un entorno virtual con Python?
+## ¿Cómo crear un entorno virtual con Python?.
 Ya tengo mís 🗒 sobre eso:
 
 [Entornos virtuales](https://github.com/javierma73/Entornos-virtuales/blob/main/Entornos-virtuales.md)
