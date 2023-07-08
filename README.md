@@ -57,7 +57,8 @@ De forma predeterminada, el único usuario es **postgres** pero Odoo prohíbe co
  1. Agregue binel directorio de PostgreSQL (por defecto: ) a su .C:\Program Files\PostgreSQL\<version>\binPATH
  2.Cree un usuario de postgres con una contraseña usando la interfaz gráfica de usuario de pg admin:
 a. Abra **pgAdmin**
-b. Hola
+b. Si
+c. No
     
 
   
