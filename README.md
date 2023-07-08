@@ -90,7 +90,7 @@ Referencia en la pág oficial de Odoo:
 [Odoo en Línes](https://www.odoo.com/documentation/13.0/administration/install/install.html#online)
 
 
-***NOTA ESTE REPO ESTA EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIENDO***
+***OJO: ESTE REPO ESTA EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIENDO*** 👀 
     
 
   
