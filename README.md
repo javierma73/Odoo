@@ -1,6 +1,8 @@
 # Odoo
 ¿Qué es y para qué sirve Odoo?
 Odoo es un software de ERP integrado. Cuenta con una versión "comunitaria" de código abierto bajo licencia LGPLv3 y una versión empresarial bajo licencia comercial que complementa la edición comunitaria con características y servicios comerciales y desarrollada por la empresa belga Odoo S.A.
+Ofrece una amplia variedad de módulos integrados, que incluyen diferentes áreas de la empresa como son: ventas, compras, inventario, contabilidad, recursos humanos, mantenimiento y más. Se centra en la modularidad y la flexibilidad, permitiendo a las empresas personalizar y adaptar el software según sus necesidades específicas, por lo que algo importante del sistema es que se adapta mayormente a tu operación y no necesariamente tu empresa debe adaptarse al sistema.
+
 
 # ¿Cómo activar el modo desarrollador rápidamente?
 La extensión para navegadores que todo usuario de Odoo debe tener se llama «Odoo debug» y está disponible, tanto para Google Chrome como para Mozilla Firefox. 
