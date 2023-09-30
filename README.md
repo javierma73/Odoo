@@ -136,7 +136,7 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
   [Odoo Editions](https://www.odoo.com/es_ES/page/editions)
 
 
-***OJO: ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO*** 👀 
+***OJO: 👀 ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO***  
     
 
   
