@@ -137,8 +137,9 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
 
   # Precios y Planes
   
+ [Precios](https://www.odoo.com/es_ES/pricing-plan)
 
-[Precios](https://www.odoo.com/es_ES/pricing-plan)
+![Precios y Planes]( https://github.com/javierma73/Odoo/blob/main/Precios%20Mensual%20de%20Odoo.png)
 
 ***OJO: 👀 ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO***  
     
