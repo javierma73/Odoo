@@ -135,6 +135,10 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
   Referencia:
   [Odoo Editions](https://www.odoo.com/es_ES/page/editions)
 
+  # Precios y Planes
+  
+
+[Precios](https://www.odoo.com/es_ES/pricing-plan)
 
 ***OJO: 👀 ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO***  
     
