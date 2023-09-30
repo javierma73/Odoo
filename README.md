@@ -78,23 +78,23 @@ Ya tengo mís 🗒 sobre eso:
 
 [Entornos virtuales](https://github.com/javierma73/Entornos-virtuales/blob/main/Entornos-virtuales.md)
 
-Pero puedes consulta referncia ofiacial: 
+Pero puedes consultar la referencia oficial: 
 [virtualenv](https://pypi.org/project/virtualenv)
 ---
 # ¿Quíero probar Odoo Ya?
-En estos link puedes probar Odoo para ir **familiarizándote** con sus aplicación es una **Demo** así que puedes tocarlo todo, sin miedo a roperlo.
+En estos links puedes probar Odoo para ir **familiarizándote** con sus aplicaciones, es una **Demo,** así que puedes tocarlo todo, sin miedo a romperlo.
 
 [DEMO ODOO](https://demo4.odoo.com/web#cids=1&action=menu)
 
-El otro link que encontre es trial, me parece mejor porque no tienes que crear cuanta.
+El otro link que encontré es trial, me parece mejor porque no tienes que crear cuanta.
 
 [TRIAL](https://www.odoo.com/es_ES/trial)
 
-Referencia en la pág oficial de Odoo:
+Referencia en la página Oficial de Odoo:
 [Odoo en Línes](https://www.odoo.com/documentation/13.0/administration/install/install.html#online)
 
 
-***OJO: ESTE REPO ESTA EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIENDO*** 👀 
+***OJO: ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO*** 👀 
     
 
   
