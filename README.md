@@ -93,6 +93,45 @@ El otro link que encontré es trial, me parece mejor porque no tienes que crear 
 Referencia en la página Oficial de Odoo:
 [Odoo en Línes](https://www.odoo.com/documentation/13.0/administration/install/install.html#online)
 
+# Comparación de ediciones de Odoo
+Odoo es un sistema de gestión empresarial (ERP) y un conjunto de aplicaciones empresariales de código abierto que ha experimentado varias ediciones a lo largo de su desarrollo. Aquí tienes un resumen comparativo de las ediciones más destacadas de Odoo:
+
+1. **Odoo Community (CE - Edición Comunidad)**:
+   - **Licencia**: Código abierto bajo la licencia LGPLv3.
+   - **Características**: Ofrece una amplia gama de aplicaciones, incluyendo gestión de ventas, compras, inventario, CRM y más.
+   - **Comunidad**: Desarrollado principalmente por la comunidad de código abierto y no tiene soporte oficial de Odoo S.A.
+   - **Personalización**: Totalmente personalizable para adaptarse a las necesidades específicas de la empresa.
+   - **Actualizaciones**: Actualizaciones regulares, pero no siempre al mismo ritmo que la edición Enterprise.
+
+2. **Odoo Enterprise (EE - Edición Empresarial)**:
+   - **Licencia**: Propietario con una suscripción de pago anual por usuario.
+   - **Características**: Incluye todas las características de la edición Community y agrega módulos adicionales como Recursos Humanos, Helpdesk, y Marketing Automation.
+   - **Soporte**: Ofrecido por Odoo S.A. con asistencia técnica y actualizaciones garantizadas.
+   - **Actualizaciones**: Actualizaciones regulares y prioridad en nuevas características y mejoras.
+
+3. **Odoo Online**:
+   - **Despliegue**: Ofrecido como un servicio en la nube por Odoo S.A.
+   - **Acceso**: Los usuarios pueden acceder a Odoo desde cualquier lugar con conexión a internet.
+   - **Facilidad de uso**: No es necesario preocuparse por la administración de servidores ni actualizaciones.
+   - **Costo**: Se paga una tarifa mensual por usuario.
+
+4. **Odoo SH (Sh-Edición)**:
+   - **Despliegue**: Ofrecido como una solución en la nube empresarial de alto rendimiento.
+   - **Características**: Proporciona un rendimiento superior y escalabilidad para empresas con necesidades de alto tráfico.
+   - **Personalización**: Permite una personalización profunda y acceso a nivel de código.
+   - **Costo**: Precios basados en el uso y el rendimiento.
+
+En resumen, Odoo ofrece una edición comunitaria de código abierto con características básicas y una edición empresarial con características avanzadas, soporte y actualizaciones garantizadas. Además, Odoo Online y Odoo SH ofrecen opciones de implementación en la nube para facilitar el acceso y la administración. La elección entre estas ediciones dependerá de las necesidades y el presupuesto de la empresa.
+
+# Resumen ediciones de Odoo
+- **Odoo Community (Edición Comunidad)**: Una edición de código abierto que ofrece una variedad de aplicaciones empresariales básicas y es mantenida principalmente por la comunidad de desarrolladores de Odoo.
+
+- **Odoo Enterprise (Edición Empresarial)**: Una edición de pago que amplía las capacidades de la Comunidad con módulos adicionales y ofrece soporte oficial de Odoo S.A.
+
+- **Odoo Online**: Una opción de implementación en la nube que permite a las empresas utilizar Odoo sin preocuparse por la infraestructura de servidores.
+
+- **Odoo SH**: Una solución en la nube empresarial de alto rendimiento con escalabilidad y opciones de personalización avanzadas.
+
 
 ***OJO: ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO*** 👀 
     
