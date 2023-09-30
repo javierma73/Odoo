@@ -131,6 +131,7 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
 - **Odoo Online**: Una opción de implementación en la nube que permite a las empresas utilizar Odoo sin preocuparse por la infraestructura de servidores.
 
 - **Odoo SH**: Una solución en la nube empresarial de alto rendimiento con escalabilidad y opciones de personalización avanzadas.
+  Referencia: [Odoo Editions](https://www.odoo.com/es_ES/page/editions)
 
 
 ***OJO: ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO*** 👀 
