@@ -86,10 +86,6 @@ Pero puedes consultar la referencia oficial:
 # ¿Quíero probar Odoo Ya?
 En estos links puedes probar Odoo para ir **familiarizándote** con sus aplicaciones, es una **Demo,** así que puedes tocarlo todo, sin miedo a romperlo.
 
-[DEMO ODOO](https://demo4.odoo.com/web#cids=1&action=menu)
-
-El otro link que encontré es trial, me parece mejor porque no tienes que crear cuanta.
-
 [TRIAL](https://www.odoo.com/es_ES/trial)
 
 Referencia en la página Oficial de Odoo:
@@ -143,7 +139,7 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
 
 ![Precios y Planes]( https://github.com/javierma73/Odoo/blob/main/Precios%20Mensual%20de%20Odoo.png)
 
-***OJO: 👀 ESTE REPO ESTÁ EN DESARROLLO ASÍ QUE SI VE ESTE MENSAJE TE PIDO DISCULPAS PORQUE ESTOY TRABAJANDO EN ÉL EDITANDO Y CAMBIANDO***  
+
     
 
   
