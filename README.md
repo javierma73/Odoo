@@ -1,4 +1,3 @@
-![odoo modulos](https://github.com/javierma73/Odoo/blob/main/odoo%20modulos.png)
 # ¿Qué es Odoo y para qué sirve?
 
 Odoo es un software ERP (**Enterprise Resource Planning**) es un sistema de planificación de recursos empresariales.
@@ -7,6 +6,7 @@ Se trata de una solución que permite centralizar toda la gestión de la empresa
 
 Ofrece una amplia variedad de módulos integrados, que incluyen diferentes áreas de la empresa como son: ventas, compras, inventario, contabilidad, recursos humanos, mantenimiento y más. Se centra en la modularidad y la flexibilidad, permitiendo a las empresas personalizar y adaptar el software según sus necesidades específicas, por lo que algo importante del sistema es que se adapta mayormente a tu operación y no necesariamente tu empresa debe adaptarse al sistema.
 
+![odoo modulos](https://github.com/javierma73/Odoo/blob/main/odoo%20modulos.png)
 
 # ¿Cómo activar el modo desarrollador rápidamente?
 La extensión para navegadores que todo usuario de Odoo debe tener se llama «Odoo debug» y está disponible, tanto para Google Chrome como para Mozilla Firefox. 
