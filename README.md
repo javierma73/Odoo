@@ -1,7 +1,7 @@
 ![odoo modulos](https://github.com/javierma73/Odoo/blob/main/odoo%20modulos.png)
 # Odoo
 ¿Qué es y para qué sirve Odoo?
-Es un software ERP (**Enterprise Resource Planning**) es un sistema de planificación de recursos empresariales.
+-Es un software ERP (**Enterprise Resource Planning**) es un sistema de planificación de recursos empresariales.
 
 Se trata de una solución que permite centralizar toda la gestión de la empresa agilizado tareas y controlando eficazmente las diferentes áreas.. Cuenta con una versión "comunitaria" de código abierto bajo licencia LGPLv3 y una versión empresarial bajo licencia comercial que complementa la edición comunitaria con características y servicios comerciales y desarrollada por la empresa belga Odoo S.A.
 
