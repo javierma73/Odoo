@@ -139,6 +139,8 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
 
 ![Precios y Planes]( https://github.com/javierma73/Odoo/blob/main/Precios%20Mensual%20de%20Odoo.png)
 
+# Configuración del Entorno de Desarrollo
+
 
     
 
