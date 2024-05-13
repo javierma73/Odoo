@@ -145,7 +145,7 @@ Antes de comenzar, necesitarás un entorno de desarrollo con Odoo instalado. Pue
 
 [Odoo imagen oficial](https://hub.docker.com/_/odoo)
 
-##Requisitos:
+# Requisitos:
 -**Python**: Odoo requiere Python, generalmente Python 3.
 -**PostgreSQL**: Base de datos compatible con Odoo.
 -**Dependencias** de Odoo: Instala todas las librerías requeridas que Odoo necesita para funcionar.
