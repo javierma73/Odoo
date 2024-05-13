@@ -162,6 +162,9 @@ Un módulo de Odoo es simplemente un directorio con un conjunto de archivos estr
   
 Directorios para Modelos, Vistas, Datos, y Controladores: Organiza el código y los datos del módulo.
 
+# Su primer módulo
+
+[Su primer módulo](https://www.odoo.com/documentation/15.0/es/administration/odoo_sh/getting_started/first_module.html#your-first-module)
 
     
 
