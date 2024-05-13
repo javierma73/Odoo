@@ -152,6 +152,14 @@ Antes de comenzar, necesitarás un entorno de desarrollo con Odoo instalado. Pue
 
 - **Dependencias** de Odoo: Instala todas las librerías requeridas que Odoo necesita para funcionar.
 
+**Creación del Esqueleto del Módulo**
+
+Un módulo de Odoo es simplemente un directorio con un conjunto de archivos estructurados de manera específica:
+
+__init__.py: Archivo para inicializar el módulo, donde importas los modelos y controladores.
+__manifest__.py: Contiene metadatos del módulo como nombre, descripción, dependencias, etc.
+Directorios para Modelos, Vistas, Datos, y Controladores: Organiza el código y los datos del módulo.
+
 
     
 
