@@ -141,6 +141,8 @@ En resumen, Odoo ofrece una edición comunitaria de código abierto con caracter
 
 # Configuración del Entorno de Desarrollo
 
+Antes de comenzar, necesitarás un entorno de desarrollo con Odoo instalado. Puedes optar por una instalación local o utilizar Docker, que es una opción popular por su facilidad de configuración y aislamiento.
+
 
     
 
